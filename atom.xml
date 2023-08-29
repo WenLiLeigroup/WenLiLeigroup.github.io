@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>逆舟的个人小站</title>
+  <title>雷文立的个人小站</title>
   
-  <subtitle>逆舟</subtitle>
+  <subtitle>雷文立</subtitle>
   <link href="https://wudiguang.top/atom.xml" rel="self"/>
   
   <link href="https://wudiguang.top/"/>
@@ -10,7 +10,7 @@
   <id>https://wudiguang.top/</id>
   
   <author>
-    <name>逆舟</name>
+    <name>雷文立</name>
     
   </author>
   
