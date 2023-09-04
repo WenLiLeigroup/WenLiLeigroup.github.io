@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>雷文立的个人小站</title>
+  <title>excavator的个人小站</title>
   
-  <subtitle>雷文立</subtitle>
+  <subtitle>excavator</subtitle>
   <link href="https://wenlileigroup.github.io/atom.xml" rel="self"/>
   
   <link href="https://wenlileigroup.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://wenlileigroup.github.io/</id>
   
   <author>
-    <name>雷文立</name>
+    <name>excavator</name>
     
   </author>
   
